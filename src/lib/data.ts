@@ -1,5 +1,5 @@
 import type { ComponentType } from "react";
-import { Mail, MessageCircle, FileUser, Newspaper, Globe, Coffee, Bot } from "lucide-react";
+import { Mail, MessageCircle, Globe, Coffee, Bot } from "lucide-react";
 import { GithubIcon, InstagramIcon } from "@/components/BrandIcons";
 
 type IconType = ComponentType<{ size?: number; className?: string }>;
